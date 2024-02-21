@@ -1,3 +1,6 @@
 # BeatNTweat-Asma-l
 Under Construction...
+
+Due to University Events, I can't take performance measurements to finish the readme...
+
 ![AltiumView](https://github.com/patsaoglou/BeatNTweat-Asma-l/assets/93339707/67e6174d-d5f8-4bd7-aa6b-a9eba9f5d1e4)
